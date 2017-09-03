@@ -1,5 +1,4 @@
-# TMDb Movie Search
-[![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/SKempin/reactjs-tmdb-app/blob/master/LICENCE)
+
 
 TMDb Movie Search is a responsive [ReactJS](http://facebook.github.io/react/index.html) app that utilises Twitter's [typeahead.js](https://twitter.github.io/typeahead.js/) and [Bloodhound](https://github.com/twitter/typeahead.js/blob/master/doc/bloodhound.md) suggestion engine, loading data via [The Movie Database (TMDb) API](https://www.themoviedb.org/documentation/api).
 
@@ -40,11 +39,3 @@ This project makes usage of the Fetch API, utilising a polyfill for older browse
 - Internet Explorer 11+ (with polyfill)
 - Edge 14+
 
-## Node.js
-Supports LTS version (v6).
-
-## Author
-[Stephen Kempin](http://www.stephenkempin.co.uk)
-
-## License
-[MIT](https://github.com/SKempin/reactjs-tmdb-app/blob/master/LICENCE)
