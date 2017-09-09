@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /* footer */
 
 footer {
@@ -25,3 +26,32 @@ footer {
     }
   }
 }
+=======
+/* footer */
+
+footer {
+  padding: 30px 0;
+  float: left;
+
+  font-size: 0.9em;
+  text-align: center;;
+  width: 100%;
+  text-shadow: 1px 1px 1px black;
+  span {
+    display: block;
+    padding: 0 0 10px;
+    i {
+      margin-right: 5px;
+    }
+  }
+  a {
+    color: darken($midGrey, 30);
+    transition:.7s;
+    padding: 8px;
+    &:hover, &:active {
+      color:$limeGreen;
+      transition:.7s;
+    }
+  }
+}
+>>>>>>> 3a806a04413b73b4084a49e70dadff7c84d30d97

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /* logo */
 .logo {
   width: 100%;
@@ -15,3 +16,22 @@
     margin-bottom: 0;
   }
 }
+=======
+/* logo */
+.logo {
+  width: 100%;
+  max-width: 140px;
+  margin: 0 auto;
+  margin-bottom: 25px;
+  display: block;
+}
+
+
+// sm up
+@include media-breakpoint-up(sm) {
+  .logo {
+    display: inline-block;
+    margin-bottom: 0;
+  }
+}
+>>>>>>> 3a806a04413b73b4084a49e70dadff7c84d30d97

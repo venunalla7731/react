@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 # robotstxt.org/
 User-agent: *
+=======
+# robotstxt.org/
+User-agent: *
+>>>>>>> 3a806a04413b73b4084a49e70dadff7c84d30d97
